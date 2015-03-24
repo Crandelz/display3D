@@ -12,7 +12,7 @@ namespace Display3DModel
     public partial class MainWindow : Window
     {
         //Path to the model file
-        private const string MODEL_PATH = "3DModel/File01.obj";
+        private const string MODEL_PATH = "Model/Model.stl";
 
         public MainWindow()
         {
